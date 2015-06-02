@@ -1,0 +1,38 @@
+body	{
+	text-align: left;
+}
+body 	{
+			font-family: Arial, san-serif;
+}
+body	{
+	background-color: #B0C4DE;
+}
+body	{
+	color: #483D8B;
+}
+
+h1	{
+	text-transform: uppercase; 
+}
+h1	{
+		font-weight: 900;
+}
+h1		{font-size: 36px;
+
+}
+h1	{
+		text-align: center;
+}
+
+#slogan {
+		font-style: italic;
+}
+#slogan	{
+	font-weight: 600;
+}
+#slogan	{
+	font-size: 22px;
+}
+#slogan	{
+	text-align: center;
+}
